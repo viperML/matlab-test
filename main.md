@@ -30,5 +30,5 @@ plot(t, y)
 ```
 
 
-![figure_0.eps](main_images/figure_0.eps)
+![figure_0.png](main_images/figure_0.png)
 
